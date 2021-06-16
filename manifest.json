@@ -1,0 +1,49 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark Violet",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+		"toolbar": "rgb(48, 48, 48)",
+		"toolbar_text": "rgb(140, 0, 255)",
+		"frame": "rgb(0, 0, 0)",
+		"tab_background_text": "rgb(125, 125, 125)",
+		"toolbar_field": "rgb(23, 23, 23)",
+		"toolbar_field_text": "rgb(140, 0, 255)",
+		"toolbar_field_border_focus": "rgb(140, 0, 255)",
+		"toolbar_field_highlight": "rgb(140, 0, 255)",
+		"toolbar_field_highlight_text": "rgb(23, 23, 23)",
+		"popup": "rgb(35, 35, 35)",
+		"popup_text": "rgb(140, 0, 255)",
+		"tab_loading": "rgb(140, 0, 255)",
+		"ntp_background": "rgb(48, 48, 48)",
+		"ntp_text": "rgb(140, 0, 255)",
+		"sidebar": "rgb(35, 35, 35)",
+		"sidebar_text": "rgb(140, 0, 255)",
+		"bookmark_text": "rgb(140, 0, 255)",
+		"icons_attention": "rgb(140, 0, 255)",
+		"popup_highlight": "rgb(140, 0, 255)",
+		"popup_highlight_text": "rgb(23, 23, 23)",
+		"sidebar_highlight": "rgb(140, 0, 255)",
+		"sidebar_highlight_text": "rgb(23, 23, 23)",
+		"tab_line": "rgb(35, 35, 35)",
+		"tab_selected": "rgb(48, 48, 48)",
+		"tab_text": "rgb(140, 0, 255)",
+		"toolbar_field_border": "rgb(23, 23, 23)",
+		"toolbar_top_separator": "rgb(23, 23, 23)"
+    }
+  }
+}
