@@ -12,9 +12,12 @@ Dark Violet README
 A dark black and gray theme with purple accents. 
 
 ## Description
-Should be easier on the eyes than some of the other dark themes..
+Should be easier on the eyes than some of the other dark themes..  
 
-
+<i>
+NOTE: I am aware that this color of Purple does make it difficult to view some UI text on most modern displays.   I'm trying some tweaks to fix that without losing this shade of purple.  
+ </i>
+  
 
 ## Installing
 
@@ -32,6 +35,7 @@ If you're looking for a search engine or start page on the web that may match th
 ---
 
 ## Parent Theme
+
 ### **[Dark Gold](https://addons.mozilla.org/en-US/firefox/addon/dark-gold/)**
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/2921/2921685.svg?modified=1622822226)
 
@@ -52,3 +56,7 @@ If you're looking for a search engine or start page on the web that may match th
 ---
 ### [Dark Blood](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-blood/)
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3851/3851934.svg?modified=1623856109)
+
+---
+### [Dark Tangerine](https://addons.mozilla.org/en-US/firefox/addon/dark-tangerine/)  
+![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3852/3852068.svg?modified=1623922596)
