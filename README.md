@@ -14,6 +14,8 @@ A dark black and gray theme with purple accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes..  
 
+<b>UPDATE - 2021-07-05 - Version 1.3.1: </b>Tweaked tab_line color. This time it actually does highlight the current tab better than before.
+
 <i>
 NOTE: I am aware that this color of Purple does make it difficult to view some UI text on most modern displays.   I'm trying some tweaks to fix that without losing this shade of purple.  
  </i>
