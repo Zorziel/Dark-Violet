@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.4",
+  "version": "1.5",
   "name": "Dark Violet",
   "theme": {
     "images": {
@@ -20,7 +20,7 @@
 		"toolbar": "rgb(48, 48, 48)",
 		"toolbar_text": "rgb(145, 71, 255)",
 		"frame": "rgb(0, 0, 0)",
-		"tab_background_text": "rgb(125, 125, 125)",
+		"tab_background_text": "rgb(130, 130, 130)",
 		"toolbar_field": "rgb(23, 23, 23)",
 		"toolbar_field_text": "rgb(145, 71, 255)",
 		"toolbar_field_border_focus": "rgb(145, 71, 255)",
