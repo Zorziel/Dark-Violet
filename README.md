@@ -14,6 +14,8 @@ A dark black and gray theme with purple accents.
 ## Description
 Should be easier on the eyes than some of the other dark themes..  
 
+<b>UPDATE - 2021-08-19 - Version 1.5:</b> changed the tab_background_text color slightly so that it once again triggers the dark context and system menus in the new Photon UI.
+
 <b>UPDATE - 2021-07-13 - Version 1.4:</b> Added popup_border color to remove the light-gray border on some popups and menus that were added in Firefox 90.0
 
 <b>UPDATE - 2021-07-05 - Version 1.3.1: </b>Tweaked tab_line color. This time it actually does highlight the current tab better than before.
